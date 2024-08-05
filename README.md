@@ -1,6 +1,9 @@
 # JsonPowerDB_Login2Xplore
 The Student Enrollment Form is a web app built with HTML, JavaScript, and JsonPowerDB. It enables users to add, update, and reset student records with ease. Featuring a clean design and efficient data handling, it's perfect for educational institutions managing student information.
 
+## Live Hosting
+You can access the live version of the Student Enrollment Form at [this link](https://json-p-ower-db-login2-xplore.vercel.app/).
+
 ## Student Enrollment Form
 
 ### Description
@@ -17,9 +20,6 @@ JsonPowerDB is an optimal choice for this project due to the following benefits:
 - **v1.0** (2024-08-06): Initial release featuring basic functionalities for managing student records using JsonPowerDB.
 
 For detailed code and version history, visit the [GitHub repository](https://github.com/verma094/JsonPOwerDB_Login2Xplore).
-
-### Live Hosting
-You can access the live version of the Student Enrollment Form at [this link](https://json-p-ower-db-login2-xplore.vercel.app/).
 
 ## Table of Contents
 1. [Screenshots](#screenshots)
