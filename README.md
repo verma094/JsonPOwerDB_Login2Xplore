@@ -1,4 +1,4 @@
-# JsonPowerDB
+# JsonPowerDB_Login2Xplore
 The Student Enrollment Form is a web app built with HTML, JavaScript, and JsonPowerDB. It enables users to add, update, and reset student records with ease. Featuring a clean design and efficient data handling, it's perfect for educational institutions managing student information.
 
 # Student Enrollment Form
@@ -16,7 +16,7 @@ JsonPowerDB is an optimal choice for this project due to the following benefits:
 ## Release History
 - **v1.0** (2024-08-06): Initial release featuring basic functionalities for managing student records using JsonPowerDB.
 
-For detailed code and version history, visit the [GitHub repository](https://github.com/yourusername/your-repo).
+For detailed code and version history, visit the [GitHub repository](https://github.com/verma094/JsonPOwerDB_Login2Xplore).
 
 ## Table of Contents
 1. [Screenshots](#screenshots)
@@ -32,30 +32,25 @@ For detailed code and version history, visit the [GitHub repository](https://git
 ![Form Layout](images/1.png)
 *Description: The main layout of the Student Enrollment Form, including fields for Roll-No, Full Name, Class, Birth Date, Address, and Enrollment Date.*
 
-### 2. Form Layout for Second Record
-![Form Layout for Second Record](images/2.png)
-*Description: Example of the form layout when a second record is entered, showing the updated fields.*
+### 2. Save Button Functionality
+![Save Button Functionality](images/2.png)
+*Description: Example of how the form looks when the Save button is clicked, with data being added to the database.*
 
-### 3. Save and Update Button Functionality
-![Save and Update Button Functionality](images/3.png)
-*Description: Interface showing the form with Save and Update buttons, demonstrating their functionality.*
+### 3. Update Button Functionality
+![Update Button Functionality](images/3.png)
+*Description: Interface showing the form populated with existing data, allowing updates to be made.*
 
-### 4. JSON PowerDB Page
-![JSON PowerDB Page](images/4.png)
-*Description: View of the JSON PowerDB page where the database interactions occur.*
+### 4. Reset Button Functionality
+![Reset Button Functionality](images/4.png)
+*Description: The form after clicking the Reset button, clearing all fields for a new entry.*
 
-### 5. Visualize in JSON PowerDB Page
-![Visualize in JSON PowerDB Page](images/5.png)
-*Description: Visualization of data within JSON PowerDB, showing how data is displayed.*
+### 5. Database Drop Function
+![Database Drop Function](images/5.png)
+*Description: Functionality to drop the existing database if needed.*
 
-### 6. Token Key in JSON PowerDB Page
-![Token Key in JSON PowerDB Page](images/6.png)
-*Description: Example of the token key used for authentication and database access in JSON PowerDB.*
-
-### 7. Code Snippet in NetBeans Page
-![Code Snippet in NetBeans Page](images/7.png)
-*Description: A snippet of code from NetBeans demonstrating how the Student Enrollment Form is implemented.*
-
+### 6. Error Handling
+![Error Handling](images/6.png)
+*Description: Example of error messages displayed when required fields are left empty.*
 
 ## Scope of Functionalities
 The Student Enrollment Form includes the following functionalities:
@@ -85,12 +80,12 @@ The project is currently in its initial release phase. Planned future updates in
 - Integration of advanced validation mechanisms.
 
 ## Sources
-- [JsonPowerDB Documentation](http://login2explore.com/jpdb/docs.html#jpdb-command-request)
+- [JsonPowerDB Documentation](https://www.login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js)
 - [Bootstrap Documentation](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 - [jQuery Documentation](https://jquery.com/)
 
 ## Other Information
-For additional details, feature requests, or issues, please visit the [GitHub repository](https://github.com/yourusername/your-repo/issues). Contributions and feedback are welcome.
+For additional details, feature requests, or issues, please visit the [GitHub repository](https://github.com/verma094/JsonPOwerDB_Login2Xplore/issues). Contributions and feedback are welcome.
 
 ---
 
