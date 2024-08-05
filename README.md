@@ -1,4 +1,8 @@
-# JsonPOwerDB_Login2Xplore
+Here's the updated documentation with PNG format for screenshots:
+
+---
+
+# JsonPowerDB_Login2Xplore
 The Student Enrollment Form is a web app built with HTML, JavaScript, and JsonPowerDB. It enables users to add, update, and reset student records with ease. Featuring a clean design and efficient data handling, it's perfect for educational institutions managing student information.
 
 # Student Enrollment Form
@@ -29,27 +33,27 @@ For detailed code and version history, visit the [GitHub repository](https://git
 ## Screenshots
 
 ### 1. Form Layout
-![Form Layout](images/1.jpg)
+![Form Layout](images/1.png)
 *Description: The main layout of the Student Enrollment Form, including fields for Roll-No, Full Name, Class, Birth Date, Address, and Enrollment Date.*
 
 ### 2. Save Button Functionality
-![Save Button Functionality](images/2.jpg)
+![Save Button Functionality](images/2.png)
 *Description: Example of how the form looks when the Save button is clicked, with data being added to the database.*
 
 ### 3. Update Button Functionality
-![Update Button Functionality](images/3.jpg)
+![Update Button Functionality](images/3.png)
 *Description: Interface showing the form populated with existing data, allowing updates to be made.*
 
 ### 4. Reset Button Functionality
-![Reset Button Functionality](images/4.jpg)
+![Reset Button Functionality](images/4.png)
 *Description: The form after clicking the Reset button, clearing all fields for a new entry.*
 
 ### 5. Database Drop Function
-![Database Drop Function](images/5.jpg)
+![Database Drop Function](images/5.png)
 *Description: Functionality to drop the existing database if needed.*
 
 ### 6. Error Handling
-![Error Handling](images/6.jpg)
+![Error Handling](images/6.png)
 *Description: Example of error messages displayed when required fields are left empty.*
 
 ## Scope of Functionalities
